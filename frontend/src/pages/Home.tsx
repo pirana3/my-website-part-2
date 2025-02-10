@@ -33,7 +33,7 @@ const Home = () => {
       <h1> 
         {myComponent()}
          </h1>
-         <h2> To my wonderfull page</h2>
+         <h2> To my wonderfull page of stuff </h2>
     </div>
   )
 }
