@@ -33,7 +33,8 @@ const Home = () => {
       <h1 className='text-blue-500 font-bold'> 
         {myComponent()}
          </h1>
-         <h2> To my wonderfull page of stuff </h2>
+         <h2> To my website </h2>
+         <p></p>
     </div>
   )
 }
