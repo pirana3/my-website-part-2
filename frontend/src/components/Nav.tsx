@@ -11,7 +11,7 @@ const Nav = () => {
           </div>
 
           <div>
-            <Link to='/' className=''> Home</Link>
+            <Link to='/' className=''> Home change this </Link>
             <Link to='/about' className=''> About</Link>
             <Link to='/skills' className=''> Skills</Link>
             <Link to='/Works' className=''> Works</Link>
