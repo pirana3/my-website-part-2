@@ -11,7 +11,6 @@ const navBar = () => {
 
   const audioElementRef = useRef(null);
   const vaContainerRef = useRef(null);
-   const { y: currentScrollY} = useWindowScroll();
 
 
 }
