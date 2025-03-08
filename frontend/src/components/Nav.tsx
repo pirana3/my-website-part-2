@@ -26,7 +26,7 @@ const Nav = () => {
           </div>
 
           <div>
-            <Link to='/' className=''> Home change this you cna cmvnsnvsjdn n nnbbv amnkjbkjll mejhig miku</Link>
+            <Link to='/' className=''> Home change this you cna cmvnsnvsjdn n nnbbv amnnfnfhnfhkjbkjll mejhig miku</Link>
             <Link to='/about' className=''> About</Link>
             <Link to='/skills' className=''> Skills</Link>
             <Link to='/Works' className=''> Works</Link>
