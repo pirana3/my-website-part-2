@@ -29,7 +29,7 @@ const Home = () => {
 
 
   return (
-    <div>
+    <div className='bg-bb'>
       <h1 className='text-blue-500 font-bold'> 
         {myComponent()}
          </h1>
